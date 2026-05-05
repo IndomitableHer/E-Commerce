@@ -19,6 +19,12 @@ nav {
     align-items: center;
  }
 
+ .purple {
+    color: #7342d6;
+    font-weight: bold;
+    font-size: 24px;
+ }
+
  .logo {
     width: 160px;
  }
@@ -60,3 +66,14 @@ header {
     height: calc(100vh-80px);
 }
 
+.header__container {
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
+    height : 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
