@@ -14,9 +14,11 @@ nav {
  .nav__container {
     width: 100%;
     max-width: 120px;
+    padding: 0 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 auto;
  }
 
  .purple {
@@ -27,6 +29,7 @@ nav {
 
  .logo {
     width: 160px;
+    display: block;
  }
 
  ul {
