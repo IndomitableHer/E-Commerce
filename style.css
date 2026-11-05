@@ -249,9 +249,14 @@ Highlights
     height:1000px;
 }
 
-.books{
-    display: flex;
+.books {
+    display: flex; 
 }
-.book__img{
+.book {
+    width: 25%;
+    padding: 24px;
+}
+
+.book__img {
     max-height: 380px;
 }
