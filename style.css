@@ -294,3 +294,6 @@ color: #fabf2a
     padding-right: 6px;
     color: #bfbfbf;
 }
+.recently-added {
+    flex-wrap: wrap;
+}
